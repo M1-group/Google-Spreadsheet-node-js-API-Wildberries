@@ -1,0 +1,15 @@
+{
+  "name": "wb-in-google-sheets-node",
+  "version": "1.0.0",
+  "description": "Выгрузка в google sheets из WILDBERRIES api статистика",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@FlDanyT",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^110.0.0",
+    "request": "^2.88.2"
+  }
+}
